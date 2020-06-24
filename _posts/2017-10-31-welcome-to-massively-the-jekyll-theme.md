@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
+title:  "Welcome to TKVTV: 取引量No.1! *当社比"
+date:   2020-06-24
 excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
 image: "/images/pic02.jpg"
 ---
